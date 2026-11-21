@@ -4410,6 +4410,46 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "Route1_Layout",
+      "width": 30,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route1/border.bin",
+      "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NOSCOPE_TOWN",
+      "name": "Noscope___Town_Layout",
+      "width": 30,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Noscope___Town/border.bin",
+      "blockdata_filepath": "data/layouts/Noscope___Town/map.bin"
+    },
+    {
+      "id": "LAYOUT_HOMELY_TOWN",
+      "name": "HomelyTown_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/HomelyTown/border.bin",
+      "blockdata_filepath": "data/layouts/HomelyTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_HOMLEY_TOWN_HOUSE_1",
+      "name": "HomleyTownHouse_1_Layout",
+      "width": 16,
+      "height": 16,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/HomleyTownHouse_1/border.bin",
+      "blockdata_filepath": "data/layouts/HomleyTownHouse_1/map.bin"
     }
   ]
 }

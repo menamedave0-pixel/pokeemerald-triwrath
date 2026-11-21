@@ -126,7 +126,8 @@ static void ClearFrontierRecord(void)
 
 static void WarpToTruck(void)
 {
-    SetWarpDestination(MAP_GROUP(MAP_INSIDE_OF_TRUCK), MAP_NUM(MAP_INSIDE_OF_TRUCK), WARP_ID_NONE, -1, -1);
+    // Example: Spawns the player in HomelyTown at X=10, Y=12
+    SetWarpDestination(MAP_GROUP(HOMELY_TOWN), MAP_NUM(HOMELY_TOWN), WARP_ID_NONE, 10, 8);
     WarpIntoMap();
 }
 
